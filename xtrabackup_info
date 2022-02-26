@@ -1,0 +1,17 @@
+uuid = b045ba67-96a9-11ec-bbde-6045bd009718
+name = 
+tool_name = mariabackup
+tool_command = --backup --target-dir=. --user=root --password=...
+tool_version = 10.3.32-MariaDB
+ibbackup_version = 10.3.32-MariaDB
+server_version = 10.3.32-MariaDB-0ubuntu0.20.04.1
+start_time = 2022-02-26 02:13:26
+end_time = 2022-02-26 02:13:29
+lock_time = 0
+binlog_pos = 
+innodb_from_lsn = 0
+innodb_to_lsn = 2984909
+partial = N
+incremental = N
+format = file
+compressed = N
